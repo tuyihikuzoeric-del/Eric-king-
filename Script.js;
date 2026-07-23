@@ -1,0 +1,16 @@
+// Mobile menu
+const menuBtn = document.querySelector(".menu-btn");
+const nav = document.querySelector("nav");
+
+if (menuBtn && nav) {
+  menuBtn.addEventListener("click", () => {
+    nav.classList.toggle("show");
+  });
+}
+
+// Copyright year
+const year = document.getElementById("year");
+
+if (year) {
+  year.textContent = new Date().getFullYear();
+}
