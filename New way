@@ -1,0 +1,1104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>National Exam in Rwanda (2000-2025)</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#f5f5f5;
+}
+
+header{
+    background:#006400;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+nav{
+    background:#004d00;
+}
+
+nav ul{
+    list-style:none;
+    margin:0;
+    padding:0;
+    display:flex;
+    justify-content:center;
+}
+
+nav ul li{
+    padding:15px 20px;
+}
+
+nav ul li a{
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+nav ul li:hover{
+    background:#008000;
+}
+
+.container{
+    padding:30px;
+    text-align:center;
+}
+
+.button{
+    display:inline-block;
+    background:#006400;
+    color:white;
+    padding:12px 20px;
+    text-decoration:none;
+    border-radius:5px;
+    margin:10px;
+}
+
+footer{
+    background:#222;
+    color:white;
+    text-align:center;
+    padding:15px;
+    margin-top:30px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>National Exam in Rwanda</h1>
+<p>Past National Examinations (2000 - 2025)</p>
+</header><header>
+    <button class="menu-btn">☰</button>
+    <h1>National Exam in Rwanda</h1>
+    <p>Past National Examinations (2000–2025)</p>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="o-level.html">O-Level (S3)</a></li>
+        <li><a href="a-level.html">A-Level (S6)</a></li>
+        <li><a href="answers.html">Answers</a></li>
+        <li><a href="download.html">Download</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
+</nav>
+
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="o-level.html">O-Level (S3)</a></li>
+<li><a href="a-level.html">A-Level (S6)</a></li>
+<li><a href="answers.html">Answers</a></li>
+<li><a href="download.html">Download</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+
+<div class="container">
+
+<h2>Welcome</h2>
+
+<p>
+Find Rwanda National Examination Papers from
+2000 to 2025.
+</p>
+
+<a href="o-level.html" class="button">
+O-Level Exams
+</a>
+
+<a href="a-level.html" class="button">
+A-Level Exams
+</a>
+
+</div>
+<section class="hero">
+    <h1>Welcome to Eric Education Website</h1>
+    <p>Get O-Level & A-Level notes, past papers, answers, and study materials.</p>
+    <a href="download.html" class="btn">Download Notes</a>
+</section>
+<footer>
+<p>© 2026 National Exam in Rwanda</p>
+</footer>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>National Exam in Rwanda (2000-2025)</title>
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial,sans-serif;
+}
+
+body{
+background:#f5f5f5;
+}
+
+header{
+background:#006400;
+color:white;
+text-align:center;
+padding:30px;
+}
+
+nav{
+background:#004d00;
+}
+
+nav ul{
+display:flex;
+justify-content:center;
+list-style:none;
+flex-wrap:wrap;
+}
+
+nav ul li{
+padding:15px 20px;
+}
+
+nav ul li a{
+color:white;
+text-decoration:none;
+font-weight:bold;
+}
+
+nav ul li:hover{
+background:#008000;
+}
+
+.hero{
+text-align:center;
+padding:50px 20px;
+}
+
+.hero h2{
+font-size:35px;
+color:#006400;
+margin-bottom:20px;
+}
+
+.hero p{
+font-size:18px;
+margin-bottom:30px;
+}
+
+.button{
+display:inline-block;
+background:#006400;
+color:white;
+padding:15px 25px;
+text-decoration:none;
+border-radius:6px;
+margin:10px;
+font-size:18px;
+}
+
+.button:hover{
+background:#008000;
+}
+
+.section{
+padding:40px 20px;
+max-width:900px;
+margin:auto;
+}
+
+.card{
+background:white;
+padding:20px;
+margin:20px 0;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,.15);
+}
+
+footer{
+background:#222;
+color:white;
+text-align:center;
+padding:20px;
+margin-top:40px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>National Exam in Rwanda</h1>
+
+<p>Past National Examination Papers (2000 - 2025)</p>
+
+</header>
+
+<nav>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+
+<li><a href="o-level.html">O-Level</a></li>
+
+<li><a href="a-level.html">A-Level</a></li>
+
+<li><a href="answers.html">Answers</a></li>
+
+<li><a href="download.html">Download</a></li>
+
+<li><a href="contact.html">Contact</a></li>
+
+</ul>
+
+</nav>
+
+<section class="hero">
+
+<h2>Welcome</h2>
+
+<p>
+Find Rwanda National Examination Papers from
+2000 up to 2025.
+</p>
+
+<a href="o-level.html" class="button">
+O-Level Exams
+</a>
+
+<a href="a-level.html" class="button">
+A-Level Exams
+</a>
+
+</section>
+
+<section class="section">
+
+<div class="card">
+
+<h2>About This Website</h2>
+
+<p>
+
+This website provides Rwanda National Examination Papers from 2000 to 2025.
+
+Students can view examination papers online.
+
+Answers and downloadable PDF files are available after payment.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>Available Categories</h2>
+
+<ul>
+
+<li>✔ O-Level National Exams</li>
+
+<li>✔ A-Level National Exams</li>
+
+<li>✔ Past Papers (2000-2025)</li>
+
+<li>✔ Marking Guides</li>
+
+<li>✔ Download PDF</li>
+
+</ul>
+
+</div>
+
+<div class="card">
+
+<h2>Payment Information</h2>
+
+<p>
+
+View Answers: <b>50 Frw</b><br><br>
+
+Download PDF: <b>50 Frw</b><br><br>
+
+MTN Mobile Money:<br>
+
+<b>0793692268</b>
+
+</p>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026 National Exam in Rwanda
+
+</p>
+
+</footer><!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>O-Level National Exams (2000-2025)</title>
+
+<style>
+
+body{
+font-family:Arial,sans-serif;
+background:#f2f2f2;
+margin:0;
+}
+
+header{
+background:#006400;
+color:white;
+text-align:center;
+padding:20px;
+}
+
+nav{
+background:#004d00;
+padding:15px;
+text-align:center;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+font-weight:bold;
+}
+
+.container{
+max-width:900px;
+margin:auto;
+padding:20px;
+}
+
+.card{
+background:white;
+margin:15px 0;
+padding:20px;
+border-radius:8px;
+box-shadow:0 0 8px rgba(0,0,0,.2);
+}
+
+.button{
+display:inline-block;
+background:#006400;
+color:white;
+padding:10px 18px;
+text-decoration:none;
+border-radius:5px;
+margin-top:10px;
+}
+
+.button:hover{
+background:#008000;
+}
+
+footer{
+background:#222;
+color:white;
+text-align:center;
+padding:20px;
+margin-top:30px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>O-Level National Exams</h1>
+
+<p>Past Examination Papers (2000 - 2025)</p>
+
+</header>
+
+<nav>
+
+<a href="index.html">Home</a>
+
+<a href="a-level.html">A-Level</a>
+
+<a href="answers.html">Answers</a>
+
+<a href="download.html">Download</a>
+
+<a href="contact.html">Contact</a>
+
+</nav>
+
+<div class="container">
+
+<h2>Choose Examination Year</h2>
+
+<div class="card">
+<h3>2025 National Examination</h3>
+<p>O-Level Examination Paper</p>
+<a href="#" class="button">View Exam</a>
+</div>
+
+<div class="card">
+<h3>2024 National Examination</h3>
+<p>O-Level Examination Paper</p>
+<a href="#" class="button">View Exam</a>
+</div>
+
+<div class="card">
+<h3>2023 National Examination</h3>
+<p>O-Level Examination Paper</p>
+<a href="#" class="button">View Exam</a>
+</div>
+
+<div class="card">
+<h3>2022 National Examination</h3>
+<p>O-Level Examination Paper</p>
+<a href="#" class="button">View Exam</a>
+</div>
+
+<div class="card">
+<h3>2021 National Examination</h3>
+<p>O-Level Examination Paper</p>
+<a href="#" class="button">View Exam</a>
+</div>
+
+<p style="text-align:center;">
+...
+<br>
+Continue the same format until the year <b>2000</b>.
+</p>
+
+</div>
+
+<footer>
+
+<p>© 2026 National Exam in Rwanda</p>
+
+</footer><!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>A-Level National Exams (2000-2025)</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#f5f5f5;
+}
+
+header{
+background:#006400;
+color:white;
+text-align:center;
+padding:25px;
+}
+
+nav{
+background:#004d00;
+padding:15px;
+text-align:center;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+font-weight:bold;
+}
+
+.container{
+width:90%;
+max-width:1000px;
+margin:auto;
+padding:20px;
+}
+
+.card{
+background:white;
+padding:20px;
+margin-bottom:20px;
+border-radius:8px;
+box-shadow:0 2px 8px rgba(0,0,0,0.2);
+}
+
+.button{
+display:inline-block;
+padding:10px 18px;
+background:#006400;
+color:white;
+text-decoration:none;
+border-radius:5px;
+}
+
+.button:hover{
+background:#008000;
+}
+
+footer{
+background:#222;
+color:white;
+text-align:center;
+padding:20px;
+margin-top:40px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>A-Level National Exams</h1>
+
+<p>Past National Examination Papers (2000–2025)</p>
+
+</header>
+
+<nav>
+
+<a href="index.html">Home</a>
+
+<a href="o-level.html">O-Level</a>
+
+<a href="answers.html">Answers</a>
+
+<a href="download.html">Download</a>
+
+<a href="contact.html">Contact</a>
+
+</nav>
+
+<div class="container">
+
+<h2>Select Examination Year</h2>
+
+<div class="card">
+<h3>2025 National Examination</h3>
+<p>A-Level Examination Paper</p>
+<a href="#" class="button">View Exam</a>
+</div>
+
+<div class="card">
+<h3>2024 National Examination</h3>
+<p>A-Level Examination Paper</p>
+<a href="#" class="button">View Exam</a>
+</div>
+
+<div class="card">
+<h3>2023 National Examination</h3>
+<p>A-Level Examination Paper</p>
+<a href="#" class="button">View Exam</a>
+</div>
+
+<div class="card">
+<h3>2022 National Examination</h3>
+<p>A-Level Examination Paper</p>
+<a href="#" class="button">View Exam</a>
+</div>
+
+<div class="card">
+<h3>2021 National Examination</h3>
+<p>A-Level Examination Paper</p>
+<a href="#" class="button">View Exam</a>
+</div>
+
+<p style="text-align:center;">
+...<br>
+Continue the same format until <b>2000</b>.
+</p>
+
+</div>
+
+<footer>
+
+<p>© 2026 National Exam in Rwanda</p>
+
+</footer><!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Exam Answers</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#f5f5f5;
+}
+
+header{
+background:#006400;
+color:white;
+text-align:center;
+padding:25px;
+}
+
+nav{
+background:#004d00;
+padding:15px;
+text-align:center;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+font-weight:bold;
+}
+
+.container{
+max-width:800px;
+margin:30px auto;
+background:white;
+padding:25px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,.2);
+}
+
+h2{
+color:#006400;
+}
+
+.notice{
+background:#fff3cd;
+padding:15px;
+border-left:5px solid orange;
+margin:20px 0;
+}
+
+.button{
+display:inline-block;
+background:#006400;
+color:white;
+padding:12px 20px;
+text-decoration:none;
+border-radius:5px;
+margin-top:15px;
+}
+
+.button:hover{
+background:#008000;
+}
+
+footer{
+background:#222;
+color:white;
+text-align:center;
+padding:20px;
+margin-top:40px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Exam Answers</h1>
+
+<p>National Exam in Rwanda (2000–2025)</p>
+
+</header>
+
+<nav>
+
+<a href="index.html">Home</a>
+<a href="o-level.html">O-Level</a>
+<a href="a-level.html">A-Level</a>
+<a href="download.html">Download</a>
+<a href="contact.html">Contact</a>
+
+</nav>
+
+<div class="container">
+
+<h2>View Marking Guide / Answers</h2>
+
+<p>
+To view the official answers or marking guide, please pay:
+</p>
+
+<div class="notice">
+
+<h3>Payment Information</h3>
+
+<p><strong>Amount:</strong> 50 RWF</p>
+
+<p><strong>MTN Mobile Money:</strong> 0793692268</p>
+
+<p>
+After payment, enter the payment confirmation code to access the answers.
+</p>
+
+</div>
+
+<label>Payment Confirmation Code</label><br><br>
+
+<input type="text" placeholder="Enter payment code"
+style="width:100%;padding:12px;">
+
+<br><br>
+
+<a href="#" class="button">Verify Payment</a>
+
+</div>
+
+<footer>
+
+<p>© 2026 National Exam in Rwanda</p>
+
+</footer><!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Download Exam Papers</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#f5f5f5;
+}
+
+header{
+background:#006400;
+color:white;
+text-align:center;
+padding:25px;
+}
+
+nav{
+background:#004d00;
+padding:15px;
+text-align:center;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+font-weight:bold;
+}
+
+.container{
+max-width:850px;
+margin:30px auto;
+background:white;
+padding:25px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,.2);
+}
+
+.notice{
+background:#e8f5e9;
+padding:15px;
+border-left:5px solid green;
+margin-bottom:20px;
+}
+
+input{
+width:100%;
+padding:12px;
+font-size:16px;
+margin-top:10px;
+margin-bottom:20px;
+}
+
+button{
+background:#006400;
+color:white;
+padding:12px 20px;
+border:none;
+border-radius:5px;
+cursor:pointer;
+font-size:16px;
+}
+
+button:hover{
+background:#008000;
+}
+
+.download{
+margin-top:30px;
+padding:20px;
+background:#f8f8f8;
+border-radius:8px;
+}
+
+.download a{
+display:block;
+margin:10px 0;
+text-decoration:none;
+color:#006400;
+font-weight:bold;
+}
+
+footer{
+background:#222;
+color:white;
+text-align:center;
+padding:20px;
+margin-top:40px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Download Exam Papers</h1>
+
+<p>National Exam in Rwanda (2000–2025)</p>
+
+</header>
+
+<nav>
+
+<a href="index.html">Home</a>
+
+<a href="o-level.html">O-Level</a>
+
+<a href="a-level.html">A-Level</a>
+
+<a href="answers.html">Answers</a>
+
+<a href="contact.html">Contact</a>
+
+</nav>
+
+<div class="container">
+
+<h2>Download PDF</h2>
+
+<div class="notice">
+
+<p><b>Download Fee:</b> 50 RWF</p>
+
+<p><b>MTN Mobile Money:</b> 0793692268</p>
+
+<p>Pay first, then enter your payment confirmation code below.</p>
+
+</div>
+
+<label>Payment Confirmation Code</label>
+
+<input type="text" placeholder="Enter payment code">
+
+<button>Verify Payment</button>
+
+<div class="download">
+
+<h3>Available PDF Files</h3>
+
+<a href="#">📄 O-Level Exam 2025.pdf</a>
+
+<a href="#">📄 O-Level Exam 2024.pdf</a>
+
+<a href="#">📄 A-Level Exam 2025.pdf</a>
+
+<a href="#">📄 A-Level Exam 2024.pdf</a>
+
+<p><b><!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Contact Us | National Exam in Rwanda</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#f5f5f5;
+}
+
+header{
+background:#006400;
+color:white;
+text-align:center;
+padding:25px;
+}
+
+nav{
+background:#004d00;
+padding:15px;
+text-align:center;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+font-weight:bold;
+}
+
+.container{
+width:90%;
+max-width:900px;
+margin:30px auto;
+background:white;
+padding:25px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,.2);
+}
+
+h2{
+color:#006400;
+}
+
+.contact-box{
+margin:20px 0;
+padding:20px;
+background:#f8f8f8;
+border-left:5px solid #006400;
+border-radius:5px;
+}
+
+input,textarea{
+width:100%;
+padding:12px;
+margin:10px 0;
+font-size:16px;
+border:1px solid #ccc;
+border-radius:5px;
+}
+
+button{
+background:#006400;
+color:white;
+padding:12px 20px;
+border:none;
+border-radius:5px;
+font-size:16px;
+cursor:pointer;
+}
+
+button:hover{
+background:#008000;
+}
+
+footer{
+background:#222;
+color:white;
+text-align:center;
+padding:20px;
+margin-top:40px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Contact Us</h1>
+
+<p>National Exam in Rwanda (2000–2025)</p>
+
+</header>
+
+<nav>
+
+<a href="index.html">Home</a>
+
+<a href="o-level.html">O-Level</a>
+
+<a href="a-level.html">A-Level</a>
+
+<a href="answers.html">Answers</a>
+
+<a href="download.html">Download</a>
+
+</nav>
+
+<div class="container">
+
+<h2>Get in Touch</h2><footer class="footer">
+    <p>&copy; <span id="year"></span> 2026 Eric Education Website. All Rights Reserved.</p>
+    <p>Email: eric@example.com</p>
+</footer>
+
+<script src="script.js"></script>
+
+<div class="contact-box">
+
+<p><strong>Website:</strong> National Exam in Rwanda</p>
+
+<p><strong>Phone:</strong> 0793692268</p>
+
+<p><strong>Email:</strong> info@nationalexamrwanda.com</p>
+
+<p><strong>Location:</strong> Kigali, Rwanda</p>
+
+</div>
+
+<h2>Send Us a Message</h2>
+
+<form>
+
+<input type="text" placeholder="Your Name" required>
+
+<input type="email" placeholder="Your Email" required>
+
+<textarea rows="6" placeholder="Write your message here..." required></textarea>
+
+<button type="submit">Send Message</button>
+
+</form>
+
+</div>
+
+<footer>
+
+<p>© 2026 National Exam in Rwanda. All Rights Reserved.</p>
+
+</footer>
+<script src="script.js"></script></body></html>
