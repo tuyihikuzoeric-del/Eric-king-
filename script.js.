@@ -1,0 +1,5 @@
+function sayHello() {
+    alert("Murakaza neza kuri New Way!");
+}document.addEventListener("DOMContentLoaded", function(){
+    console.log("PHXdownload website is working!");
+});
